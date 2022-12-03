@@ -109,6 +109,10 @@ body {
     .content-item-img {
         display: none;
     }
+    .navbar-brand img {
+        width: 20px;
+        height: 20px;
+    }
 }
 
 
